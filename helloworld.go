@@ -30,7 +30,7 @@ func main() {
 	fmt.Println(nilai64)
 	fmt.Println(nilai8)
 
-	var jeneng = "dwi"
+	var jeneng = "dimas"
 	var a = jeneng[0]
 	var aString = string(a)
 
