@@ -36,4 +36,7 @@ func main() {
 
 	fmt.Println(jeneng)
 	fmt.Println(aString)
+
+	var menikah = true
+	fmt.Println(menikah)
 }
