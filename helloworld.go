@@ -3,13 +3,16 @@ package main
 import "fmt"
 
 func main() {
+	//var
 	var nama = "dimas"
 	fmt.Println(nama)
 	fmt.Println("hello, world")
 
+	//const
 	const kota = "lamongan"
 	fmt.Println(kota)
 
+	//type dec
 	type KTP int
 	type alumni string
 
@@ -18,6 +21,7 @@ func main() {
 	fmt.Println(nomorKtp)
 	fmt.Println(alum)
 
+	//convert
 	var nilai32 int32 = 100000
 	var nilai64 int64 = int64(nilai32)
 	var nilai8 int8 = int8(nilai32)
